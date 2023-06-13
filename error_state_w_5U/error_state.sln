@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "error_state", "error_state\error_state.vbproj", "{5A950826-F275-42A2-A000-C9716581310A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "package_setup", "package_setup\package_setup.vdproj", "{3A571168-93B7-4B79-A1FD-AAAEE5D9F9AB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sample2010", "C:\MELSEC\Act\Samples\Vb.NET\Sample2010\Sample2010\Sample2010.vbproj", "{20C2EB33-98C8-48AA-AF13-3D2568383437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A950826-F275-42A2-A000-C9716581310A}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{5A950826-F275-42A2-A000-C9716581310A}.Debug|x86.ActiveCfg = Debug|x86
+		{5A950826-F275-42A2-A000-C9716581310A}.Debug|x86.Build.0 = Debug|x86
+		{5A950826-F275-42A2-A000-C9716581310A}.Release|Any CPU.ActiveCfg = Release|x86
+		{5A950826-F275-42A2-A000-C9716581310A}.Release|x86.ActiveCfg = Release|x86
+		{5A950826-F275-42A2-A000-C9716581310A}.Release|x86.Build.0 = Release|x86
+		{3A571168-93B7-4B79-A1FD-AAAEE5D9F9AB}.Debug|Any CPU.ActiveCfg = Debug
+		{3A571168-93B7-4B79-A1FD-AAAEE5D9F9AB}.Debug|Any CPU.Build.0 = Debug
+		{3A571168-93B7-4B79-A1FD-AAAEE5D9F9AB}.Debug|x86.ActiveCfg = Debug
+		{3A571168-93B7-4B79-A1FD-AAAEE5D9F9AB}.Release|Any CPU.ActiveCfg = Release
+		{3A571168-93B7-4B79-A1FD-AAAEE5D9F9AB}.Release|Any CPU.Build.0 = Release
+		{3A571168-93B7-4B79-A1FD-AAAEE5D9F9AB}.Release|x86.ActiveCfg = Release
+		{20C2EB33-98C8-48AA-AF13-3D2568383437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C2EB33-98C8-48AA-AF13-3D2568383437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C2EB33-98C8-48AA-AF13-3D2568383437}.Debug|x86.ActiveCfg = Debug|x86
+		{20C2EB33-98C8-48AA-AF13-3D2568383437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C2EB33-98C8-48AA-AF13-3D2568383437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C2EB33-98C8-48AA-AF13-3D2568383437}.Release|x86.ActiveCfg = Release|x86
+		{20C2EB33-98C8-48AA-AF13-3D2568383437}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

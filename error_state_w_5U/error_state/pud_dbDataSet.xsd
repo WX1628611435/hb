@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="pud_dbDataSet" targetNamespace="http://tempuri.org/pud_dbDataSet.xsd" xmlns:mstns="http://tempuri.org/pud_dbDataSet.xsd" xmlns="http://tempuri.org/pud_dbDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="pud_dbConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Private" Name="pud_dbConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.error_state.My.MySettings.GlobalReference.Default.pud_dbConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="get_weight_todayTableAdapter" GeneratorDataComponentClassName="get_weight_todayTableAdapter" Name="get_weight_today" UserDataComponentName="get_weight_todayTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="pud_dbConnectionString (MySettings)" DbObjectName="pud_db.dbo.get_weight_today" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Weight FROM dbo.get_weight_today</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Weight" DataSetColumn="Weight" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="pud_dbDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="pud_dbDataSet" msprop:Generator_UserDSName="pud_dbDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="get_weight_today" msprop:Generator_TableClassName="get_weight_todayDataTable" msprop:Generator_TableVarName="tableget_weight_today" msprop:Generator_TablePropName="get_weight_today" msprop:Generator_RowDeletingName="get_weight_todayRowDeleting" msprop:Generator_RowChangingName="get_weight_todayRowChanging" msprop:Generator_RowEvHandlerName="get_weight_todayRowChangeEventHandler" msprop:Generator_RowDeletedName="get_weight_todayRowDeleted" msprop:Generator_UserTableName="get_weight_today" msprop:Generator_RowChangedName="get_weight_todayRowChanged" msprop:Generator_RowEvArgName="get_weight_todayRowChangeEvent" msprop:Generator_RowClassName="get_weight_todayRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Weight" msprop:Generator_ColumnVarNameInTable="columnWeight" msprop:Generator_ColumnPropNameInRow="Weight" msprop:Generator_ColumnPropNameInTable="WeightColumn" msprop:Generator_UserColumnName="Weight" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

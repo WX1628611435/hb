@@ -1,0 +1,17 @@
+Load Start: 2017/9/8 9:47:43
+Start: Me.PackageDataSet.PKG_ID2017/9/8 9:47:43
+End: Me.PackageDataSet.PKG_ID2017/9/8 9:47:44
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2017/9/8 9:47:44
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2017/9/8 9:47:44
+Start: Me.PackageDataSet.PACKING_MACHINE2017/9/8 9:47:44
+End: Me.PackageDataSet.PACKING_MACHINE2017/9/8 9:47:44
+Start: Me.PackageDataSet.PACKING_DETAIL2017/9/8 9:47:44
+End: Me.PackageDataSet.PACKING_DETAIL2017/9/8 9:47:44
+Start: Me.PackageDataSet.package_state2017/9/8 9:47:44
+End: Me.PackageDataSet.package_state2017/9/8 9:47:44
+Start: Me.PackageDataSet.MaxSer2017/9/8 9:47:44
+End: Me.PackageDataSet.MaxSer2017/9/8 9:47:44
+Start: Me.PackageDataSet.ALERT_LOG2017/9/8 9:47:44
+End: Me.PackageDataSet.ALERT_LOG2017/9/8 9:47:44
+Load End: 2017/9/8 9:47:44
+Timer2_Tick 1#2017/9/8 9:47:45

@@ -1,0 +1,334 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+error_state
+</name>
+</assembly>
+<members>
+<member name="T:error_state.packageDataSet.ALERT_LOGDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.packageDataSet.MaxSerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.packageDataSet.package_stateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.packageDataSet.PACKING_DETAILDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.packageDataSet.PACKING_MACHINEDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.packageDataSet.PERIOD_PACKING_DETAILDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.packageDataSet.get_packageserDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.packageDataSet.PKG_IDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.packageDataSet.ALERT_LOGRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.packageDataSet.MaxSerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.packageDataSet.package_stateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.packageDataSet.PACKING_DETAILRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.packageDataSet.PACKING_MACHINERow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.packageDataSet.PERIOD_PACKING_DETAILRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.packageDataSet.get_packageserRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.packageDataSet.PKG_IDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.packageDataSet.ALERT_LOGRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.packageDataSet.MaxSerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.packageDataSet.package_stateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.packageDataSet.PACKING_DETAILRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.packageDataSet.PACKING_MACHINERowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.packageDataSet.PERIOD_PACKING_DETAILRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.packageDataSet.get_packageserRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.packageDataSet.PKG_IDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.packageDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.ALERT_LOGTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.MaxSerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.package_stateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.PACKING_DETAILTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.PACKING_MACHINETableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.PERIOD_PACKING_DETAILTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.get_packageserTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.PKG_IDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:error_state.packageDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(error_state.packageDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:error_state.packageDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(error_state.packageDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:error_state.packageDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(error_state.packageDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:error_state.packageDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:error_state.packageDataSetTableAdapters.TableAdapterManager.UpdateAll(error_state.packageDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:error_state.packageDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:error_state.pud_dbDataSet.get_weight_todayDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.pud_dbDataSet.get_weight_todayRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.pud_dbDataSet.get_weight_todayRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.pud_dbDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:error_state.pud_dbDataSetTableAdapters.get_weight_todayTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:error_state.pud_dbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(error_state.pud_dbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:error_state.pud_dbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(error_state.pud_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:error_state.pud_dbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(error_state.pud_dbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:error_state.pud_dbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:error_state.pud_dbDataSetTableAdapters.TableAdapterManager.UpdateAll(error_state.pud_dbDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:error_state.pud_dbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:error_state.pud_dbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:error_state.pud_dbDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:error_state.SqlDB.#ctor(System.Boolean)">
+	<summary>
+ 控制 Connection是否關閉,True 不要關閉,適合大量執行sql語法
+ </summary>
+	<param name="NotClostConnection"></param>
+	<remarks></remarks>
+</member><member name="M:error_state.SqlDB.OpenConnection">
+	<summary>
+ 開啟資料庫連結
+ </summary>
+</member><member name="M:error_state.SqlDB.CloseConnection">
+	<summary>
+ 關閉資料庫連結
+ </summary>
+</member><member name="M:error_state.SqlDB.GetDataTable(System.String,System.Data.CommandType)">
+	<summary>
+ 讀取資料表，傳入SQL語法
+ </summary>
+</member><member name="M:error_state.SqlDB.GetDataTable(System.String,System.Collections.ArrayList,System.Data.CommandType)">
+	<summary>
+ 讀取資料表，傳入SQL語法、參數、指令型號
+ </summary>
+</member><member name="M:error_state.SqlDB.GetDataTable(System.String,System.Collections.Generic.List{System.Data.SqlClient.SqlParameter},System.Data.CommandType)">
+	<summary>
+ 讀取資料表，傳入SQL語法、參數、指令型號
+ </summary>
+</member><member name="M:error_state.SqlDB.RunCmd(System.String,System.Data.CommandType)">
+	<summary>
+ 執行SQL指令，傳入SQL語法
+ </summary>
+</member><member name="M:error_state.SqlDB.RunCmd(System.String,System.Collections.ArrayList,System.Data.CommandType)">
+	<summary>
+ 執行SQL指令，傳入SQL語法
+ </summary>
+</member><member name="M:error_state.SqlDB.RunCmd(System.String,System.Collections.Generic.List{System.Data.SqlClient.SqlParameter},System.Data.CommandType)">
+	<summary>
+ 執行SQL指令，傳入SQL語法
+ </summary>
+</member><member name="P:error_state.My.Resources.Resources.ResourceManager">
+	<summary>
+  傳回這個類別使用的快取的 ResourceManager 執行個體。
+</summary>
+</member><member name="P:error_state.My.Resources.Resources.Culture">
+	<summary>
+  覆寫目前執行緒的 CurrentUICulture 屬性，對象是所有
+  使用這個強類型資源類別的資源查閱。
+</summary>
+</member><member name="P:error_state.My.Resources.Resources.String1">
+	<summary>
+  查詢類似 aaa 的當地語系化字串。
+</summary>
+</member><member name="T:error_state.My.Resources.Resources">
+	<summary>
+  用於查詢當地語系化字串等的強類型資源類別。
+</summary>
+</member><member name="T:error_state.ebi_db.pac_fileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:error_state.ebi_db.pac_fileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:error_state.ebi_db.pac_fileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:error_state.ebi_db">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:error_state.ebi_dbTableAdapters.pac_fileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:error_state.ebi_dbTableAdapters.TableAdapterManager.UpdateUpdatedRows(error_state.ebi_db,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:error_state.ebi_dbTableAdapters.TableAdapterManager.UpdateInsertedRows(error_state.ebi_db,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:error_state.ebi_dbTableAdapters.TableAdapterManager.UpdateDeletedRows(error_state.ebi_db,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:error_state.ebi_dbTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:error_state.ebi_dbTableAdapters.TableAdapterManager.UpdateAll(error_state.ebi_db)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:error_state.ebi_dbTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:error_state.ebi_dbTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:error_state.ebi_dbTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

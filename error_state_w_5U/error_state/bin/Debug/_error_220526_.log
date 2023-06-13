@@ -1,0 +1,135 @@
+Load Start: 2022/5/26 11:10:20
+Start: Me.PackageDataSet.PKG_ID2022/5/26 11:10:20
+End: Me.PackageDataSet.PKG_ID2022/5/26 11:10:21
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:10:21
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:10:21
+Start: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:10:21
+End: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:10:21
+Start: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:10:21
+End: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:10:21
+Start: Me.PackageDataSet.package_state2022/5/26 11:10:21
+End: Me.PackageDataSet.package_state2022/5/26 11:10:21
+Start: Me.PackageDataSet.MaxSer2022/5/26 11:10:21
+End: Me.PackageDataSet.MaxSer2022/5/26 11:10:21
+Start: Me.PackageDataSet.ALERT_LOG2022/5/26 11:10:21
+End: Me.PackageDataSet.ALERT_LOG2022/5/26 11:10:21
+Load End: 2022/5/26 11:10:21
+Timer2_Tick 1#2022/5/26 11:10:23
+Timer2_Tick 1# end2022/5/26 11:10:24
+Timer2_Tick 2# 2022/5/26 11:10:24
+Timer2_Tick 2# end 2022/5/26 11:10:25
+Timer2_Tick 3#2022/5/26 11:10:25
+Timer2_Tick 3# end 2022/5/26 11:10:25
+Timer2_Tick 4# 2022/5/26 11:10:25
+Timer2_Tick 4# end 2022/5/26 11:12:30
+Timer2_Tick 4# Finally end 2022/5/26 11:12:32
+Load Start: 2022/5/26 11:17:02
+Start: Me.PackageDataSet.PKG_ID2022/5/26 11:17:02
+End: Me.PackageDataSet.PKG_ID2022/5/26 11:17:02
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:17:02
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:17:02
+Start: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:17:02
+End: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:17:03
+Start: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:17:03
+End: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:17:03
+Start: Me.PackageDataSet.package_state2022/5/26 11:17:03
+End: Me.PackageDataSet.package_state2022/5/26 11:17:03
+Start: Me.PackageDataSet.MaxSer2022/5/26 11:17:03
+End: Me.PackageDataSet.MaxSer2022/5/26 11:17:03
+Start: Me.PackageDataSet.ALERT_LOG2022/5/26 11:17:03
+End: Me.PackageDataSet.ALERT_LOG2022/5/26 11:17:03
+Load End: 2022/5/26 11:17:03
+Timer2_Tick 1#2022/5/26 11:17:05
+Timer2_Tick 1# end2022/5/26 11:17:10
+Timer2_Tick 2# 2022/5/26 11:17:10
+Timer2_Tick 2# end 2022/5/26 11:17:11
+Timer2_Tick 3#2022/5/26 11:17:11
+Timer2_Tick 3# end 2022/5/26 11:17:11
+Timer2_Tick 4# 2022/5/26 11:17:11
+Load Start: 2022/5/26 11:22:10
+Start: Me.PackageDataSet.PKG_ID2022/5/26 11:22:10
+End: Me.PackageDataSet.PKG_ID2022/5/26 11:22:10
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:22:10
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:22:10
+Start: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:22:10
+End: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:22:10
+Start: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:22:10
+End: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:22:10
+Start: Me.PackageDataSet.package_state2022/5/26 11:22:10
+End: Me.PackageDataSet.package_state2022/5/26 11:22:10
+Start: Me.PackageDataSet.MaxSer2022/5/26 11:22:10
+End: Me.PackageDataSet.MaxSer2022/5/26 11:22:10
+Start: Me.PackageDataSet.ALERT_LOG2022/5/26 11:22:10
+End: Me.PackageDataSet.ALERT_LOG2022/5/26 11:22:11
+Load End: 2022/5/26 11:22:11
+Load Start: 2022/5/26 11:22:39
+Start: Me.PackageDataSet.PKG_ID2022/5/26 11:22:40
+End: Me.PackageDataSet.PKG_ID2022/5/26 11:22:40
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:22:40
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:22:40
+Start: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:22:40
+End: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:22:40
+Start: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:22:40
+End: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:22:40
+Start: Me.PackageDataSet.package_state2022/5/26 11:22:40
+End: Me.PackageDataSet.package_state2022/5/26 11:22:40
+Start: Me.PackageDataSet.MaxSer2022/5/26 11:22:40
+End: Me.PackageDataSet.MaxSer2022/5/26 11:22:40
+Start: Me.PackageDataSet.ALERT_LOG2022/5/26 11:22:40
+End: Me.PackageDataSet.ALERT_LOG2022/5/26 11:22:40
+Load End: 2022/5/26 11:22:40
+Timer2_Tick 1#2022/5/26 11:22:42
+Timer2_Tick 1# end2022/5/26 11:22:47
+Timer2_Tick 2# 2022/5/26 11:22:47
+Timer2_Tick 2# end 2022/5/26 11:22:48
+Timer2_Tick 3#2022/5/26 11:22:48
+Timer2_Tick 3# end 2022/5/26 11:22:48
+Timer2_Tick 4# 2022/5/26 11:22:48
+Load Start: 2022/5/26 11:26:32
+Start: Me.PackageDataSet.PKG_ID2022/5/26 11:26:32
+End: Me.PackageDataSet.PKG_ID2022/5/26 11:26:33
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:26:33
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:26:33
+Start: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:26:33
+End: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:26:33
+Start: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:26:33
+End: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:26:33
+Start: Me.PackageDataSet.package_state2022/5/26 11:26:33
+End: Me.PackageDataSet.package_state2022/5/26 11:26:33
+Start: Me.PackageDataSet.MaxSer2022/5/26 11:26:33
+End: Me.PackageDataSet.MaxSer2022/5/26 11:26:33
+Start: Me.PackageDataSet.ALERT_LOG2022/5/26 11:26:33
+End: Me.PackageDataSet.ALERT_LOG2022/5/26 11:26:33
+Load End: 2022/5/26 11:26:33
+Timer2_Tick 1#2022/5/26 11:26:35
+Timer2_Tick 1# end2022/5/26 11:26:45
+Timer2_Tick 2# 2022/5/26 11:26:45
+Timer2_Tick 2# end 2022/5/26 11:26:46
+Timer2_Tick 3#2022/5/26 11:26:46
+Timer2_Tick 3# end 2022/5/26 11:26:46
+Timer2_Tick 4# 2022/5/26 11:26:46
+Timer2_Tick 4# end 2022/5/26 11:31:33
+Timer2_Tick 4# Finally end 2022/5/26 11:31:33
+Load Start: 2022/5/26 11:32:07
+Start: Me.PackageDataSet.PKG_ID2022/5/26 11:32:07
+End: Me.PackageDataSet.PKG_ID2022/5/26 11:32:08
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:32:08
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/26 11:32:08
+Start: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:32:08
+End: Me.PackageDataSet.PACKING_MACHINE2022/5/26 11:32:08
+Start: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:32:08
+End: Me.PackageDataSet.PACKING_DETAIL2022/5/26 11:32:08
+Start: Me.PackageDataSet.package_state2022/5/26 11:32:08
+End: Me.PackageDataSet.package_state2022/5/26 11:32:08
+Start: Me.PackageDataSet.MaxSer2022/5/26 11:32:08
+End: Me.PackageDataSet.MaxSer2022/5/26 11:32:08
+Start: Me.PackageDataSet.ALERT_LOG2022/5/26 11:32:08
+End: Me.PackageDataSet.ALERT_LOG2022/5/26 11:32:08
+Load End: 2022/5/26 11:32:08
+Timer2_Tick 1#2022/5/26 11:32:10
+Timer2_Tick 1# end2022/5/26 11:32:12
+Timer2_Tick 2# 2022/5/26 11:32:12
+Timer2_Tick 2# end 2022/5/26 11:32:13
+Timer2_Tick 3#2022/5/26 11:32:13
+Timer2_Tick 3# end 2022/5/26 11:32:13
+Timer2_Tick 4# 2022/5/26 11:32:13

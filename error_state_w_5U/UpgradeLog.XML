@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="error_state">
+</Property><Property Name="方案檔" Value="C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state.sln">
+</Property><Property Name="Date" Value="2016年9月2日">
+</Property><Property Name="Time" Value="上午 08:44">
+</Property></Properties><Event ErrorLevel="0" Project="error_state" Source="error_state\error_state.vbproj" Description="專案檔不需要轉換。">
+</Event><Event ErrorLevel="3" Project="error_state" Source="error_state\error_state.vbproj" Description="不需要轉換">
+</Event><Event ErrorLevel="0" Project="" Source="error_state.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="error_state.sln" Description="Converted">
+</Event></UpgradeLog>

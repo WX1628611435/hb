@@ -1,0 +1,48 @@
+Load Start: 2022/5/25 11:02:09
+Start: Me.PackageDataSet.PKG_ID2022/5/25 11:02:09
+End: Me.PackageDataSet.PKG_ID2022/5/25 11:02:09
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/25 11:02:09
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/25 11:02:09
+Start: Me.PackageDataSet.PACKING_MACHINE2022/5/25 11:02:09
+End: Me.PackageDataSet.PACKING_MACHINE2022/5/25 11:02:09
+Start: Me.PackageDataSet.PACKING_DETAIL2022/5/25 11:02:09
+End: Me.PackageDataSet.PACKING_DETAIL2022/5/25 11:02:09
+Start: Me.PackageDataSet.package_state2022/5/25 11:02:09
+End: Me.PackageDataSet.package_state2022/5/25 11:02:10
+Start: Me.PackageDataSet.MaxSer2022/5/25 11:02:10
+End: Me.PackageDataSet.MaxSer2022/5/25 11:02:10
+Start: Me.PackageDataSet.ALERT_LOG2022/5/25 11:02:10
+End: Me.PackageDataSet.ALERT_LOG2022/5/25 11:02:10
+Load End: 2022/5/25 11:02:10
+Timer2_Tick 1#2022/5/25 11:02:12
+Timer2_Tick 1# end2022/5/25 11:02:19
+Timer2_Tick 2# 2022/5/25 11:02:19
+Timer2_Tick 2# end 2022/5/25 11:02:20
+Timer2_Tick 3#2022/5/25 11:02:20
+Timer2_Tick 3# end 2022/5/25 11:02:20
+Timer2_Tick 4# 2022/5/25 11:02:20
+Timer2_Tick 4# end 2022/5/25 11:05:35
+Timer2_Tick 4# Finally end 2022/5/25 11:05:35
+Load Start: 2022/5/25 11:06:28
+Start: Me.PackageDataSet.PKG_ID2022/5/25 11:06:28
+End: Me.PackageDataSet.PKG_ID2022/5/25 11:06:28
+Start: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/25 11:06:28
+End: Me.PackageDataSet.PERIOD_PACKING_DETAIL2022/5/25 11:06:28
+Start: Me.PackageDataSet.PACKING_MACHINE2022/5/25 11:06:28
+End: Me.PackageDataSet.PACKING_MACHINE2022/5/25 11:06:28
+Start: Me.PackageDataSet.PACKING_DETAIL2022/5/25 11:06:28
+End: Me.PackageDataSet.PACKING_DETAIL2022/5/25 11:06:28
+Start: Me.PackageDataSet.package_state2022/5/25 11:06:28
+End: Me.PackageDataSet.package_state2022/5/25 11:06:29
+Start: Me.PackageDataSet.MaxSer2022/5/25 11:06:29
+End: Me.PackageDataSet.MaxSer2022/5/25 11:06:29
+Start: Me.PackageDataSet.ALERT_LOG2022/5/25 11:06:29
+End: Me.PackageDataSet.ALERT_LOG2022/5/25 11:06:29
+Load End: 2022/5/25 11:06:29
+Timer2_Tick 1#2022/5/25 11:06:31
+Timer2_Tick 1# end2022/5/25 11:06:32
+Timer2_Tick 2# 2022/5/25 11:06:32
+Timer2_Tick 2# end 2022/5/25 11:06:33
+Timer2_Tick 3#2022/5/25 11:06:33
+Timer2_Tick 3# end 2022/5/25 11:06:33
+Timer2_Tick 4# 2022/5/25 11:06:33

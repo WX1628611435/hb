@@ -1,0 +1,219 @@
+c:\users\t10-it\documents\visual studio 2010\Projects\error_state\error_state\bin\Debug\error_state.exe.config
+c:\users\t10-it\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\Interop.ACTMULTILib.dll
+c:\users\t10-it\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\AxInterop.ACTMULTILib.dll
+c:\users\t10-it\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\bin\Debug\error_state.exe
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\bin\Debug\error_state.pdb
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\bin\Debug\error_state.xml
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\bin\Debug\Interop.ACTMULTILib.dll
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\bin\Debug\AxInterop.ACTMULTILib.dll
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\error_state.Form1.resources
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\error_state.Resources.resources
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\error_state.vbproj.GenerateResource.Cache
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\error_state.exe
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\error_state.xml
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\error_state.pdb
+C:\Users\T10-IT\documents\visual studio 2010\Projects\error_state\error_state\obj\x86\Debug\error_state.exe.licenses
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state\error_state\obj\x86\Debug\Interop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state\error_state\obj\x86\Debug\AxInterop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state\error_state\bin\Debug\Interop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state\error_state\bin\Debug\AxInterop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\bin\Debug\error_state.exe.config
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\Interop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\AxInterop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\AxInterop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\error_state.exe
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\error_state.xml
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\error_state.pdb
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\bin\Debug\error_state.exe
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\bin\Debug\error_state.pdb
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\bin\Debug\error_state.xml
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\bin\Debug\Interop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\bin\Debug\Interop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\bin\Debug\AxInterop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\bin\Debug\AxInterop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\error_state.Form1.resources
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\error_state.Resources.resources
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\error_state.vbproj.GenerateResource.Cache
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t2\error_state\obj\x86\Debug\error_state.exe.licenses
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\bin\Debug\error_state.exe.config
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\Interop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\AxInterop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\AxInterop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\error_state.exe
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\error_state.xml
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\error_state.pdb
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\bin\Debug\error_state.exe
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\bin\Debug\error_state.pdb
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\bin\Debug\error_state.xml
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\bin\Debug\Interop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\bin\Debug\Interop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\bin\Debug\AxInterop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\bin\Debug\AxInterop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\error_state.Form1.resources
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\error_state.Resources.resources
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\error_state.vbproj.GenerateResource.Cache
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_t6\error_state\obj\x86\Debug\error_state.exe.licenses
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\error_state.exe.config
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\Interop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\Interop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\error_state.exe
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\error_state.xml
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\error_state.pdb
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\error_state.exe
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\error_state.pdb
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\error_state.xml
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\Interop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\Interop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\AxInterop.ACTETHERLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\AxInterop.ACTMULTILib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\error_state.Form1.resources
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\error_state.Resources.resources
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\error_state.vbproj.GenerateResource.Cache
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\error_state.exe.licenses
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\bin\Debug\Interop.ACTBOARDLib.dll
+C:\Users\T10-IT\Documents\Visual Studio 2010\Projects\error_state_w\error_state\obj\x86\Debug\Interop.ACTBOARDLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\error_state.exe.config
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\Interop.ACTBOARDLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\Interop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\error_state.exe
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\error_state.xml
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\error_state.pdb
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\error_state.exe
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\error_state.pdb
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\error_state.xml
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\Interop.ACTBOARDLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\Interop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\Interop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\AxInterop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\bin\Debug\AxInterop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\error_state.Form1.resources
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\error_state.Resources.resources
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state_w\error_state\obj\x86\Debug\error_state.exe.licenses
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\error_state.exe.config
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\Interop.ACTBOARDLib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\Interop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\error_state.exe
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\error_state.xml
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\error_state.pdb
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\error_state.exe
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\error_state.pdb
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\error_state.xml
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\Interop.ACTBOARDLib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\Interop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\Interop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\AxInterop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\bin\Debug\AxInterop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\error_state.Form1.resources
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\error_state.Resources.resources
+D:\Desktop\环保站PLC通讯\error_state_w\error_state\obj\x86\Debug\error_state.exe.licenses
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\error_state.exe.config
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\Interop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\Interop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.exe
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.xml
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.pdb
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\error_state.exe
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\error_state.pdb
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\error_state.xml
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\DevExpress.Utils.v9.2.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\DevExpress.XtraEditors.v9.2.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Core.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Win.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\DevExpress.Utils.v9.2.xml
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\DevExpress.XtraEditors.v9.2.xml
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Core.xml
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Win.xml
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\Interop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\Interop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\AxInterop.ACTETHERLib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\bin\Debug\AxInterop.ACTMULTILib.dll
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.Form1.resources
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.Resources.resources
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.vbproj.GenerateResource.Cache
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.exe.licenses
+D:\Desktop\环保站PLC通讯\error_state\error_state_w\error_state\obj\x86\Debug\error_state.vbprojResolveAssemblyReference.cache
+E:\PLC\error_state_w\error_state\bin\Debug\error_state_5U.exe.config
+E:\PLC\error_state_w\error_state\bin\Debug\error_state_5U.exe
+E:\PLC\error_state_w\error_state\bin\Debug\error_state_5U.pdb
+E:\PLC\error_state_w\error_state\bin\Debug\error_state_5U.xml
+E:\PLC\error_state_w\error_state\bin\Debug\Interop.ActProgTypeLib.dll
+E:\PLC\error_state_w\error_state\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\PLC\error_state_w\error_state\bin\Debug\Interop.ACTUWZDLib.dll
+E:\PLC\error_state_w\error_state\bin\Debug\AxInterop.ActProgTypeLib.dll
+E:\PLC\error_state_w\error_state\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\PLC\error_state_w\error_state\bin\Debug\AxInterop.ACTUWZDLib.dll
+E:\PLC\error_state_w\error_state\obj\x86\Debug\Interop.ActProgTypeLib.dll
+E:\PLC\error_state_w\error_state\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+E:\PLC\error_state_w\error_state\obj\x86\Debug\Interop.ACTUWZDLib.dll
+E:\PLC\error_state_w\error_state\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+E:\PLC\error_state_w\error_state\obj\x86\Debug\AxInterop.ActUtlTypeLib.dll
+E:\PLC\error_state_w\error_state\obj\x86\Debug\AxInterop.ACTUWZDLib.dll
+E:\PLC\error_state_w\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+E:\PLC\error_state_w\error_state\obj\x86\Debug\error_state.Form1.resources
+E:\PLC\error_state_w\error_state\obj\x86\Debug\error_state.Resources.resources
+E:\PLC\error_state_w\error_state\obj\x86\Debug\error_state.vbproj.GenerateResource.Cache
+E:\PLC\error_state_w\error_state\obj\x86\Debug\error_state_5U.exe.licenses
+E:\PLC\error_state_w\error_state\obj\x86\Debug\error_state_5U.exe
+E:\PLC\error_state_w\error_state\obj\x86\Debug\error_state_5U.xml
+E:\PLC\error_state_w\error_state\obj\x86\Debug\error_state_5U.pdb
+E:\PLC\error_state_w\error_state\bin\Debug\DevExpress.Data.v9.2.dll
+E:\PLC\error_state_w\error_state\bin\Debug\DevExpress.Utils.v9.2.dll
+E:\PLC\error_state_w\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Core.dll
+E:\PLC\error_state_w\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Win.dll
+E:\PLC\error_state_w\error_state\bin\Debug\DevExpress.Data.v9.2.xml
+E:\PLC\error_state_w\error_state\bin\Debug\DevExpress.Utils.v9.2.xml
+E:\PLC\error_state_w\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Core.xml
+E:\PLC\error_state_w\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Win.xml
+E:\PLC\error_state_w_5U\error_state\bin\Debug\error_state_5U.exe.config
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\Interop.ActProgTypeLib.dll
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\Interop.ActUtlTypeLib.dll
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\Interop.ACTUWZDLib.dll
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\AxInterop.ActProgTypeLib.dll
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\AxInterop.ActUtlTypeLib.dll
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\AxInterop.ACTUWZDLib.dll
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\error_state.vbproj.ResolveComReference.cache
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\error_state_5U.exe
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\error_state_5U.xml
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\error_state_5U.pdb
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\error_state.Form1.resources
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\error_state.Resources.resources
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\error_state.vbproj.GenerateResource.Cache
+E:\PLC\error_state_w_5U\error_state\obj\x86\Debug\error_state_5U.exe.licenses
+E:\PLC\error_state_w_5U\error_state\bin\Debug\error_state_5U.exe
+E:\PLC\error_state_w_5U\error_state\bin\Debug\error_state_5U.pdb
+E:\PLC\error_state_w_5U\error_state\bin\Debug\error_state_5U.xml
+E:\PLC\error_state_w_5U\error_state\bin\Debug\DevExpress.Data.v9.2.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\DevExpress.Utils.v9.2.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Core.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Win.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\DevExpress.Data.v9.2.xml
+E:\PLC\error_state_w_5U\error_state\bin\Debug\DevExpress.Utils.v9.2.xml
+E:\PLC\error_state_w_5U\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Core.xml
+E:\PLC\error_state_w_5U\error_state\bin\Debug\DevExpress.XtraGauges.v9.2.Win.xml
+E:\PLC\error_state_w_5U\error_state\bin\Debug\Interop.ActProgTypeLib.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\Interop.ActUtlTypeLib.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\Interop.ACTUWZDLib.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\AxInterop.ActProgTypeLib.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\AxInterop.ActUtlTypeLib.dll
+E:\PLC\error_state_w_5U\error_state\bin\Debug\AxInterop.ACTUWZDLib.dll
